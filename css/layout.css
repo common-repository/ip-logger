@@ -1,0 +1,37 @@
+a.yhc_button {
+	background-position: 5px 50%;
+	background-repeat: no-repeat;
+	border: medium none;
+	display: block;
+	padding: 4px 4px 4px 25px;
+	text-decoration: none;
+}
+
+a.yhc_button:hover {
+	border-bottom-width: 1px;
+}
+
+a.yhc_pluginHome {
+	background-image: url("web-icon.gif");
+}
+
+a.yhc_german {
+	background-image: url("flag_de.png");
+}
+
+a.yhc_sweden {
+	background-image: url("flag_se.png");
+}
+
+table.iploggertable {
+	clear: none;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+table.iploggertable td {
+	line-height: 20px;
+	padding-left: 5px;
+	font-size: 11px;
+	margin-bottom:9px;
+}

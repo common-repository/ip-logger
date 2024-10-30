@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IP Logger\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-25 21:14+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YHC\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-Country: SWEDEN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: C:\\xampplite\\work\\ip-logger\n"
+
+#: C:\xampplite\work\ip-logger/index.php:224
+msgid "Delete Filter"
+msgstr "Ta bort filter"
+
+#: C:\xampplite\work\ip-logger/index.php:297
+msgid "About this plugin"
+msgstr "Om detta plugin"
+
+#: C:\xampplite\work\ip-logger/index.php:299
+msgid "Plugin Homepage  (Download)"
+msgstr "Pluginets hemsida (Download)"
+
+#: C:\xampplite\work\ip-logger/index.php:300
+msgid "Propose a new feature"
+msgstr "Föreslå ny funktion"
+
+#: C:\xampplite\work\ip-logger/index.php:301
+msgid "Help (Forum)"
+msgstr "Hjälp (Forum)"
+
+#: C:\xampplite\work\ip-logger/index.php:302
+msgid "Report bug"
+msgstr "Rapportera fel"
+
+#: C:\xampplite\work\ip-logger/index.php:303
+#: C:\xampplite\work\ip-logger/index.php:709
+msgid "Donate"
+msgstr "Ge bidrag"
+
+#: C:\xampplite\work\ip-logger/index.php:304
+msgid "Contact us"
+msgstr "Kontakta oss"
+
+#: C:\xampplite\work\ip-logger/index.php:309
+msgid "News"
+msgstr "Nyheter"
+
+#: C:\xampplite\work\ip-logger/index.php:316
+#: C:\xampplite\work\ip-logger/index.php:340
+msgid "Export"
+msgstr "Export"
+
+#: C:\xampplite\work\ip-logger/index.php:320
+msgid "Format"
+msgstr "Format"
+
+#: C:\xampplite\work\ip-logger/index.php:323
+msgid "Timespan"
+msgstr "Tidsperiod"
+
+#: C:\xampplite\work\ip-logger/index.php:325
+msgid "All data"
+msgstr "All information"
+
+#: C:\xampplite\work\ip-logger/index.php:326
+msgid "Last 60 days"
+msgstr "Senaste 60 dagar"
+
+#: C:\xampplite\work\ip-logger/index.php:327
+msgid "Last 30 days"
+msgstr "Senaste 30 dagar"
+
+#: C:\xampplite\work\ip-logger/index.php:328
+msgid "Last 14 days"
+msgstr "Senaste 14 dagar"
+
+#: C:\xampplite\work\ip-logger/index.php:329
+msgid "Last 7 days"
+msgstr "Senaste 7 dagar"
+
+#: C:\xampplite\work\ip-logger/index.php:330
+msgid "Only today"
+msgstr "Enbart idag"
+
+#: C:\xampplite\work\ip-logger/index.php:333
+msgid "Content"
+msgstr "Innehåll"
+
+#: C:\xampplite\work\ip-logger/index.php:335
+msgid "Short"
+msgstr "Kort"
+
+#: C:\xampplite\work\ip-logger/index.php:336
+msgid "Long"
+msgstr "Lång"
+
+#: C:\xampplite\work\ip-logger/index.php:348
+msgid "Donations for"
+msgstr "Bidragen för"
+
+#: C:\xampplite\work\ip-logger/index.php:351
+#: C:\xampplite\work\ip-logger/index.php:355
+msgid "Anonymous"
+msgstr "Anonym"
+
+#: C:\xampplite\work\ip-logger/index.php:351
+#: C:\xampplite\work\ip-logger/index.php:353
+#: C:\xampplite\work\ip-logger/index.php:355
+msgid "Small Amount"
+msgstr "Litet belopp"
+
+#: C:\xampplite\work\ip-logger/index.php:357
+msgid "Many thanks !"
+msgstr "Stort tack !"
+
+#: C:\xampplite\work\ip-logger/index.php:363
+msgid "Translators"
+msgstr "Översättare"
+
+#: C:\xampplite\work\ip-logger/index.php:377
+msgid "Overview"
+msgstr "Översikt"
+
+#: C:\xampplite\work\ip-logger/index.php:380
+#, php-format
+msgid "You're using IP Logger <b>Version %s</b>."
+msgstr "Du använder dig av IP Logger <b>version %s</b>."
+
+#: C:\xampplite\work\ip-logger/index.php:381
+#, php-format
+msgid "Plugin installed: <b>%s</b>"
+msgstr "Plugin installerad: <b>%s</b>"
+
+#: C:\xampplite\work\ip-logger/index.php:382
+#, php-format
+msgid "Since the installation <b>%s Hits</b> has been logged, <font color='#ff0000'><b>%s Hits</b></font> has been blocked."
+msgstr "Sedan installationen har <b>%s träffar</b> loggats, <font color='#ff0000'><b>%s träffar</b></font> har blockerats."
+
+#: C:\xampplite\work\ip-logger/index.php:383
+#, php-format
+msgid "Currently <b>%s hits</b> are saved in the database, thereof <b>%s hits</b> from today."
+msgstr "För tillfället är <b>%s träffar</b> sparade i databasen, varav <b>%s träffar</b> från idag."
+
+#: C:\xampplite\work\ip-logger/index.php:384
+#, php-format
+msgid "Currently <font color='#ff0000'><b>%s hits</b></font> has been blocked, thereof <b>%s hits</b> today."
+msgstr "För tillfället har <font color='#ff0000'><b>%s träffar</b></font> blockerats, varav <b>%s träffar</b> idag."
+
+#: C:\xampplite\work\ip-logger/index.php:396
+msgid "Settings"
+msgstr "Inställningar"
+
+#: C:\xampplite\work\ip-logger/index.php:400
+msgid "IP Logger enabled ?"
+msgstr "IP Logger aktiverad ?"
+
+#: C:\xampplite\work\ip-logger/index.php:401
+msgid "Yes, log visitors"
+msgstr "Ja, logga besökare"
+
+#: C:\xampplite\work\ip-logger/index.php:404
+msgid "E-Mail Notification ?"
+msgstr "E-postnotifiering ?"
+
+#: C:\xampplite\work\ip-logger/index.php:405
+#: C:\xampplite\work\ip-logger/index.php:435
+msgid "Yes, notify me"
+msgstr "Ja, meddela mig"
+
+#: C:\xampplite\work\ip-logger/index.php:409
+msgid "Automatically delete records ?"
+msgstr "Automatisk borttagning ?"
+
+#: C:\xampplite\work\ip-logger/index.php:410
+msgid "Yes, enable this function"
+msgstr "Ja, aktivera funktionen"
+
+#: C:\xampplite\work\ip-logger/index.php:414
+msgid "Delete after"
+msgstr "Ta bort efter"
+
+#: C:\xampplite\work\ip-logger/index.php:415
+msgid "days"
+msgstr "dagar"
+
+#: C:\xampplite\work\ip-logger/index.php:418
+msgid "IP Logger on the Dashboard ?"
+msgstr "IP Logger på panelen ?"
+
+#: C:\xampplite\work\ip-logger/index.php:419
+msgid "Yes, show IP Logger on Dashboard"
+msgstr "Ja, visa IP Logger på panelen"
+
+#: C:\xampplite\work\ip-logger/index.php:422
+msgid "Infos on the Dashboard"
+msgstr "Information på panelen"
+
+#: C:\xampplite\work\ip-logger/index.php:423
+msgid "Show chart 'Hits'"
+msgstr "Visa \"Träffar\""
+
+#: C:\xampplite\work\ip-logger/index.php:427
+msgid "Show chart 'Countries'"
+msgstr "Visa \"Länder\""
+
+#: C:\xampplite\work\ip-logger/index.php:431
+msgid "Show 'Map'"
+msgstr "Visa \"Karta\""
+
+#: C:\xampplite\work\ip-logger/index.php:434
+msgid "E-Mail Notification on Blocking ?"
+msgstr "E-postnotifiering vid blockering ?"
+
+#: C:\xampplite\work\ip-logger/index.php:439
+msgid "Block unwantet visitors ?"
+msgstr "Blockera oönskade besökare ?"
+
+#: C:\xampplite\work\ip-logger/index.php:440
+msgid "Yes, check visitors against my filters"
+msgstr "Ja, filtrera besökare"
+
+#: C:\xampplite\work\ip-logger/index.php:443
+msgid "Block unlocatable visitors ?"
+msgstr "Blockera besökare som inte kan lokeras ?"
+
+#: C:\xampplite\work\ip-logger/index.php:444
+msgid "Yes, block unlocateble visitors"
+msgstr "Ja, blockera besökare som inte kan lokeras"
+
+#: C:\xampplite\work\ip-logger/index.php:448
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#: C:\xampplite\work\ip-logger/index.php:457
+msgid "Settings: Visitor filters"
+msgstr "Inställningar: Besöksfilter"
+
+#: C:\xampplite\work\ip-logger/index.php:460
+msgid "In this group you can define filters for the <b>IP Logger Blocker</b>. This feature enables you to shield your WordPress sites from unwanted visitors."
+msgstr "I gruppen kan du skapa filter för <b>IP Logger Blocker</b>. Funktionen gör att du kan skydda din WordPress sida från oönskade besökare."
+
+#: C:\xampplite\work\ip-logger/index.php:461
+msgid "Examples:<br /><b>user_agent = 'abot'</b> <i>Redirect every visitor with the part 'abot' in the Browseridentification to the 'No access' page.</i><br /><b>Code3 = CHN</b> <i>Redirect every visitor from China to the 'No access' page.</i><br /><b>IP_V4 = 123.123.123.456</b> <i>Redirect every visitor from IP 123.123.123.456 to the 'No access' page.</i>"
+msgstr "Exempel:<br /><b>user_agent = 'abot'</b> <i>Omdirigera alla besökare som har texten 'abot' i deras webbläsaridentifikation till sidan 'Blockerad'.</i><br /><b>Code3 = CHN</b> <i>Omdirigera alla besökare från Kina till sidan 'Blockerad'.</i><br /><b>IP_V4 = 123.123.123.456</b> <i>Omdirigera alla besökare från IPadressen 123.123.123.456 till sidan 'Blockerad'.</i>"
+
+#: C:\xampplite\work\ip-logger/index.php:468
+msgid "Rule"
+msgstr "Regel"
+
+#: C:\xampplite\work\ip-logger/index.php:469
+msgid "Target"
+msgstr "Mål"
+
+#: C:\xampplite\work\ip-logger/index.php:470
+msgid "Filter"
+msgstr "Filter"
+
+#: C:\xampplite\work\ip-logger/index.php:471
+msgid "Action"
+msgstr "Aktion"
+
+#: C:\xampplite\work\ip-logger/index.php:477
+msgid "Save Filter"
+msgstr "Spara Filter"
+
+#: C:\xampplite\work\ip-logger/index.php:479
+msgid "or"
+msgstr "eller"
+
+#: C:\xampplite\work\ip-logger/index.php:580
+msgid "Sorry, but you cannot access this website."
+msgstr "Ursäkta, men du får inte tillgång till sidan."
+
+#: C:\xampplite\work\ip-logger/index.php:647
+msgid "Hits"
+msgstr "Träffar"
+
+#: C:\xampplite\work\ip-logger/index.php:653
+msgid "Countries"
+msgstr "Länder"
+
+#: C:\xampplite\work\ip-logger/index.php:659
+msgid "Map"
+msgstr "Karta"
+
+#: C:\xampplite\work\ip-logger/index.php:698
+msgid "About IP Logger"
+msgstr "Om IP Logger"
+
+#: C:\xampplite\work\ip-logger/index.php:700
+#, php-format
+msgid "This WordPress Plugin is &copy; Copyright %s by"
+msgstr "WordPress-pluginet är &copy; Copyright %s av"
+
+#: C:\xampplite\work\ip-logger/index.php:701
+msgid "All rights reserved."
+msgstr "Alla rättigheter förbehållna."
+
+#: C:\xampplite\work\ip-logger/index.php:702
+msgid "You're using"
+msgstr "Du använder"
+
+#: C:\xampplite\work\ip-logger/index.php:703
+msgid "Blocked hits by IP Logger"
+msgstr "Besök blockerade av IP Logger"
+
+#: C:\xampplite\work\ip-logger/index.php:705
+msgid "Homepage"
+msgstr "Hemsida"
+
+#: C:\xampplite\work\ip-logger/index.php:706
+msgid "Forum"
+msgstr "Forum"
+
+#: C:\xampplite\work\ip-logger/index.php:708
+msgid "Wishes"
+msgstr "Önskemål"
+
+#: C:\xampplite\work\ip-logger/index.php:730
+msgid "IP Logger"
+msgstr "IP Logger"
+
+#: C:\xampplite\work\ip-logger/chart/__hits_total.php:51
+msgid "hits blocked"
+msgstr "träffar blockerade"
+

@@ -1,0 +1,531 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IP Logger 3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-06 15:58+0100\n"
+"PO-Revision-Date: 2010-03-06 16:06+0100\n"
+"Last-Translator: \n"
+"Language-Team: M. Retzlaff <info@mretzlaff.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SearchPath-0: \\\\S01\\testblog\\public_html\\wp-content\\plugins\\ip-logger\n"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:217
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:248
+msgid "Delete Filter"
+msgstr "Filter löschen"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:222
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:253
+msgid "No data found."
+msgstr "Keine Daten gefunden"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:262
+msgid "Add WP Backend users (if not already in filter)"
+msgstr "Neuer WP Backend Benutzer (wenn noch nicht in der Liste)"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:307
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:526
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:1225
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:1250
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:308
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:400
+msgid "Help (Forum)"
+msgstr "Hilfe (Forum)"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:309
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:402
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:1189
+msgid "Donate"
+msgstr "Spenden"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:310
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:403
+msgid "Contact us"
+msgstr "Kontakt"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:396
+msgid "About this plugin"
+msgstr "Über dieses Plugin"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:398
+msgid "Plugin Homepage  (Download)"
+msgstr "Plugin Homepage (Download)"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:399
+msgid "Propose a new feature"
+msgstr "Neue Funktion vorschlagen"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:401
+msgid "Report bug"
+msgstr "Fehler melden"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:408
+msgid "News"
+msgstr "Neuigkeiten"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:415
+msgid "Your ideas & comments"
+msgstr "Ihre Ideen & Kommentare"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:419
+msgid "Your name"
+msgstr "Ihr Name"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:423
+msgid "Your E-Mail"
+msgstr "Ihre E-Mail"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:426
+msgid "Comment"
+msgstr "Kommentar"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:430
+msgid "Send"
+msgstr "Senden"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:438
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:465
+msgid "Export"
+msgstr "Export"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:442
+msgid "Format"
+msgstr "Format"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:448
+msgid "Timespan"
+msgstr "Zeitspanne"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:450
+msgid "All data"
+msgstr "Alle Daten"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:451
+msgid "Last 60 days"
+msgstr "Letzten 60 Tage"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:452
+msgid "Last 30 days"
+msgstr "Letzten 30 Tage"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:453
+msgid "Last 14 days"
+msgstr "Letzten 14 Tage"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:454
+msgid "Last 7 days"
+msgstr "Letzten 7 Tage"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:455
+msgid "Only today"
+msgstr "Nur heute"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:458
+msgid "Content"
+msgstr "Inhalt"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:460
+msgid "Short"
+msgstr "Kurz"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:461
+msgid "Long"
+msgstr "Lang"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:473
+msgid "Donations for"
+msgstr "Spenden für"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:476
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:480
+msgid "Anonymous"
+msgstr "Anonym"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:476
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:478
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:480
+msgid "Small Amount"
+msgstr "Kleiner Betrag"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:482
+msgid "Many thanks !"
+msgstr "Vielen Dank !"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:488
+msgid "Translators"
+msgstr "Übersetzer"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:504
+msgid "Overview"
+msgstr "Übersicht"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:507
+#, php-format
+msgid "You're using IP Logger <b>Version %s</b>."
+msgstr "Sie benutzen IP Logger <b>Version %s</b>."
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:508
+#, php-format
+msgid "Plugin installed: <b>%s</b>"
+msgstr "Plugin installiert: <b>%s</b>"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:509
+#, php-format
+msgid "Since the installation <b>%s Hits</b> has been logged, <font color='#ff0000'><b>%s Hits</b></font> blocked and <b>%s Hits</b> ignored."
+msgstr "Seit der Installation wurden <b>%s Zugriffe</b> gespeichert, <font color='#ff0000'><b>%s Zugriffe</b></font> wurden blockiert und <b>%s Zugriffe</b> ignoriert."
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:510
+#, php-format
+msgid "Currently <b>%s hits</b> are saved in the database, thereof <b>%s hits</b> from today."
+msgstr "Aktuell sind <b>%s Zugriffe</b> in der Datenbank gespeichert, davon <b>%s Zugriffe</b> von heute."
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:511
+#, php-format
+msgid "Currently <font color='#ff0000'><b>%s hits</b></font> has been blocked, thereof <b>%s hits</b> today."
+msgstr "Aktuell sind <font color='#ff0000'><b>%s Zugriffe</b></font> blockiert worden, davon <b>%s Zugriffe</b> heute."
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:512
+#, php-format
+msgid "Currently <b>%s hits</b> has been ignored, thereof <b>%s hits</b> today."
+msgstr "Aktuell sind <font color='#ff0000'><b>%s Zugriffe</b></font> ignoriert worden, davon <b>%s Zugriffe</b> heute."
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:514
+#, php-format
+msgid "Last <a href='%s' target='ipla'>IPLA</a> communication with IP <b>%s</b> at <b>%s</b>."
+msgstr "Letzte <a href='%s' target='ipla'>IPLA</a> Kommunikation mit IP <b>%s</b> am <b>%s</b>."
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:529
+msgid "IP Logger enabled ?"
+msgstr "IP Logger aktiv ?"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:530
+msgid "Yes, log visitors"
+msgstr "Ja, Zugriffe protokollieren"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:531
+msgid "If this option is disabled, the whole plugin is disabled."
+msgstr "Ist diese Option deaktiviert, ist das ganze Plugin deaktivert."
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:534
+msgid "Block unwantet visitors ?"
+msgstr "Unerwünschte Besucher blockieren ?"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:535
+msgid "Yes, check visitors against my filters"
+msgstr "Ja, Besucher filtern"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:537
+msgid "Block unlocatable visitors ?"
+msgstr "Nicht lokalisierbare Besucher blockieren ?"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:538
+msgid "Yes, block unlocateble visitors"
+msgstr "Ja, nicht lokalisierbare Besucher blockieren"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:540
+msgid "Ignore filter enabled ?"
+msgstr "\"Nicht beachten\" Filter aktiv ?"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:541
+msgid "Yes, ignore filtering enabled"
+msgstr "Ja, \"nicht beachten\" Filter aktiv"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:547
+msgid "IP Logger on the Dashboard ?"
+msgstr "IP Logger auf dem Dashboard ?"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:548
+msgid "Yes, show IP Logger on Dashboard"
+msgstr "Ja, IP Logger auf dem Dashboard anzeigen"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:550
+msgid "Infos on the Dashboard"
+msgstr "Infos auf dem Dashboard"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:551
+msgid "Show chart 'Hits'"
+msgstr "Das Diagramm \"Zugriffe\""
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:554
+msgid "Show chart 'Countries'"
+msgstr "Das Diagramm \"Länder\""
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:557
+msgid "Show 'Map'"
+msgstr "Das Diagramm \"Karte\""
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:559
+msgid "Display panel for role"
+msgstr "Zeige Bereich für Benutzerrolle"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:571
+msgid "and above"
+msgstr "und oberhalb"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:577
+msgid "E-Mail Notification ?"
+msgstr "E-Mail Benachrichtigung ?"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:578
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:587
+msgid "Yes, notify me"
+msgstr "Ja, bitte benachrichtigen"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:581
+msgid "Automatically delete records ?"
+msgstr "Automatisch Datensätze löschen ?"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:583
+msgid "Yes"
+msgstr "Ja"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:583
+msgid "delete after"
+msgstr "löschen nach"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:584
+msgid "days"
+msgstr "Tagen"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:586
+msgid "E-Mail Notification on Blocking ?"
+msgstr "E-Mail Benachrichtigung beim Blockieren ?"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:635
+msgid "To display the other options, please enable the IP Logger:"
+msgstr "Um die weiteren Optionen anzuzeigen, aktivieren Sie den IP Logger:"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:636
+msgid "Check the box above and click on \"Save Changes\"."
+msgstr "Aktivieren Sie die Auswahl und klicken Sie auf \"Save Changes\"."
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:641
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:676
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:654
+msgid "Settings: IP Logger Analyzer (IPLA)"
+msgstr "Einstellungen: IP Logger Analyzer (IPLA)"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:657
+msgid "You can use our free software <b>IP Logger Analyzer (IPLA)</b> to download your IP Logger logs to your local computer."
+msgstr "Sie können unsere kostenlose Software <b>IP Logger Analyzer (IPLA)</b> für den Download Ihrer Daten auf Ihren COmputer benutzen."
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:658
+msgid "To protect your logs from other users or spys, you have to define a PIN."
+msgstr "Um Ihre Daten vor Dritten zu schützen, müssen Sie einen PIN festlegen."
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:659
+msgid "Keep this PIN a secret."
+msgstr "Halten Sie den PIN geheim."
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:660
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:692
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:731
+msgid "Read more ..."
+msgstr "Mehr Infos ..."
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:664
+msgid "IP Logger Analyzer allowed ?"
+msgstr "IP Logger Analyzer erlaubt ?"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:665
+msgid "Yes, allow IPLA to communicate with this plugin"
+msgstr "Ja, erlaube IPLA die Kommunikation mit diesem Plugin"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:667
+msgid "Your Communication PIN"
+msgstr "Ihr Kommunikations-PIN"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:669
+msgid "Must not be empty or shorter than 5 chars."
+msgstr "Darf nicht leer oder kürzer als 5 Zeichen sein."
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:671
+msgid "Current IPLA version"
+msgstr "Aktuelle IPLA Version"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:685
+msgid "Settings: Visitor filters"
+msgstr "Einstellungen: Besucher Filter"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:691
+msgid "In this group you can define filters for the <b>IP Logger Blocker</b>. This feature enables you to shield your WordPress sites from unwanted visitors."
+msgstr "In diesem Bereich können Sie Filter für den <b>IP Logger Blocker</b> hinterlegen. Diese Funktion erlaubt es Ihnen, Ihre WordPress Seiten vor unerwünschten Besuchern zu schützen."
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:696
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:735
+msgid "Rule"
+msgstr "Rolle"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:697
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:736
+msgid "Target"
+msgstr "Ziel"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:698
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:737
+msgid "Filter"
+msgstr "Filter"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:699
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:738
+msgid "Action"
+msgstr "Aktion"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:709
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:748
+msgid "Save Filter"
+msgstr "Filter speichern"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:711
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:750
+msgid "or"
+msgstr "oder"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:724
+msgid "Ignore filter (ignore visitors in the charts)"
+msgstr "\"Nicht beachten\" Filter (ignoriert Besucher in den Diagrammen)"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:730
+msgid "Here you can define filters for visitors, which should be logged but not be considered within the charts."
+msgstr "Hier können Sie Filter für Besucher definieren, die zwar gespeichert aber nicht in den Diagrammen angezeigt werden sollen."
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:817
+msgid "Your PIN has been updated"
+msgstr "Ihr PIN wurde aktualisiert"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:904
+msgid ""
+"Dear User,\n"
+"\n"
+"the following IP Logger updates have been installed on your server:"
+msgstr ""
+"Sehr geehrter Benutzer,\n"
+"\n"
+"die folgenden IP Logger Updates wurden auf Ihrem Server installiert:"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:906
+msgid "This is a notification e-mail only."
+msgstr "Dieses ist nur eine Benachrichtigungs E-Mail."
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:907
+msgid "To stop the notifications, please disable the option in your IP Logger settings."
+msgstr "Um diese Benachrichtigungen zu stoppen, deaktivieren Sie die Option in Ihren IP Logger Einstellungen"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:908
+msgid "There you can also define the receiver of these notifications."
+msgstr "Dort können Sie auch den Empfänger dieser Benachrichtigungen festlegen."
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:909
+msgid "For more informations, please visit our website:"
+msgstr "Für mehr Informationen besuchen Sie bitte unsere Webseite:"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:915
+msgid "Update notification"
+msgstr "Updatebenachrichtigung"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:1078
+msgid "Sorry, but you cannot access this website."
+msgstr "Leider haben Sie keinen Zugriff auf diese Webseite."
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:1114
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/map/map_dashboard.php:63
+msgid "Hits"
+msgstr "Zugriffe"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:1120
+msgid "Countries"
+msgstr "Länder"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:1126
+msgid "Map"
+msgstr "Karte"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:1174
+msgid "About IP Logger"
+msgstr "Über IP Logger"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:1176
+#, php-format
+msgid "This WordPress Plugin is &copy; Copyright %s by"
+msgstr "Dieses WordPress Plugin ist &copy; Copyright %s by"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:1178
+msgid "All rights reserved."
+msgstr "Alle Rechte vorbehalten."
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:1180
+msgid "You're using"
+msgstr "Sie benutzen"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:1181
+msgid "Saved hits by IP Logger"
+msgstr "Durch IP Logger gespeicherte Zugriffe"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:1182
+msgid "Blocked hits by IP Logger"
+msgstr "Durch IP Logger blockierte Zugriffe"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:1183
+msgid "Ignored hits by IP Logger"
+msgstr "Durch IP Logger ignorierte Zugriffe"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:1185
+msgid "Homepage"
+msgstr "Homepage"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:1186
+msgid "Forum"
+msgstr "Forum"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:1188
+msgid "Your Ideas"
+msgstr "Ihre Ideen"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:1222
+msgid "This plugin is disabled."
+msgstr "Dieses Plugin ist deaktivert."
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/index.php:1246
+msgid "Chart explanation"
+msgstr "Diagramm-Erklärung"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/map/map_dashboard.php:52
+msgid "Longitude"
+msgstr "Längengrad"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/map/map_dashboard.php:54
+msgid "Latitude"
+msgstr "Breitengrad"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/map/map_dashboard.php:56
+msgid "City"
+msgstr "Stadt"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/map/map_dashboard.php:58
+msgid "Region"
+msgstr "Region"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/map/map_dashboard.php:60
+msgid "Country"
+msgstr "Land"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/map/map_dashboard.php:65
+msgid "Blocked"
+msgstr "Blockiert"
+
+#: \\S01\testblog\public_html\wp-content\plugins\ip-logger/map/map_dashboard.php:67
+msgid "Last&nbsp;Access"
+msgstr "Letzter&nbsp;Zugriff"
+
